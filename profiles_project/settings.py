@@ -124,3 +124,9 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 AUTH_USER_MODEL = 'profiles_api.UserProfile'
+
+# vagrant up
+# vagrant ssh
+# cd vagrant
+# source ~/env/bin/activate
+# python manage.py runserver
